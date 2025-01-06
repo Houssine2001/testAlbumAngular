@@ -1,0 +1,34 @@
+{
+  "albums": [
+    {
+      "id": "2b32",
+      "title": "Aid 2023",
+      "description": "Aid 2023",
+      "creationDate": "2023-07-01",
+      "archived": 1,
+      "coverPicture": "../../../assets/houssin.jpg"
+    },
+    {
+      "id": "2b33",
+      "title": "Aid 2024",
+      "description": "Aid 2024",
+      "creationDate": "2024-07-01",
+      "archived": 0,
+      "coverPicture": "../../../assets/houssin.jpg"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "title": "aid snow",
+      "albumId": "2b32",
+      "url": "../../../assets/houssin.jpg"
+    },
+    {
+      "id": 2,
+      "title": "aid swim",
+      "albumId": "2b32",
+      "url": "../../../assets/houssin.jpg"
+    }
+  ]
+}
